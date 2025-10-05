@@ -63,5 +63,3 @@ Building scalable, secure, and high-performance web applications — from Web3 D
 ---
 
 🪶 _Exploring the intersection of clean code, architecture, and human creativity._
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iShavlovsky&show_icons=true&theme=transparent&hide_border=true)
