@@ -15,11 +15,6 @@ Vue / React / Nuxt · TypeScript · Node.js · Rust · Python · Ethereum
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff)
 
-### 🔭 Projects (shortlist)
-- **Backpack SDK** — Web3 SDK с типобезопасными событиями и маршрутизацией
-- **Wallet Extension** — провайдер, мосты popup/content/background, passkeys/PKCE
-- **Poetry Site** — Nuxt 4 + Three.js/TresJS, чистая архитектура, анимации
-
 ### 🧠 Принципы
 Простота > универсальность · Самодокументируемый код · SOLID · Чистая архитектура · Типобезопасность
 
