@@ -1,57 +1,85 @@
-# 👋 Hey, I'm Igor Shavlovsky
+<h1 align="center">🧭 Igor Shavlovsky</h1>
 
-**Frontend & Full Stack Engineer · Web3 · Rust · TypeScript · Team Lead**
+<p align="center">
+  <strong>Architect of scalable Web3 frontends · TypeScript & Rust enthusiast · Team Lead</strong><br/>
+  <em>Building clean systems, beautiful interfaces, and resilient architectures.</em>
+</p>
 
-Building scalable, secure, and high-performance web applications — from Web3 DApps and Telegram WebApps to traditional enterprise-scale products.
-
----
-
-### ⚙️ Expertise
-- **Frontend Architecture:** balancing SSR / ISR / CSR / SSG for optimal scalability and DX  
-- **UX & Performance:** Core Web Vitals, rendering pipelines, caching, and micro-interactions  
-- **Web3 Integration:** DApps, wallet connectors (Wagmi, Viem, Ethers.js, Web3.js), smart contracts  
-- **Telegram WebApps:** bots, mini-apps, and seamless integrations with blockchain APIs  
-- **Process Optimization:** CI/CD automation, DevOps pipelines, code quality and linting systems  
-- **Cybersecurity & Pentesting:** OWASP Top-10, Burp Suite, Nmap, Kali Linux, and smart contract audits  
+<p align="center">
+  <a href="https://t.me/iShavl"><img src="https://img.shields.io/badge/Telegram-%40iShavl-blue?logo=telegram&logoColor=white" /></a>
+  <a href="mailto:imshavlovsky@gmail.com"><img src="https://img.shields.io/badge/Email-imshavlovsky%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🧰 Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Vue](https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=fff)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Next](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+### ⚡ What drives me
+
+> Crafting the intersection between frontend architecture, Web3, and human experience.
+
+- 🧩 **Frontend Architecture:** SSR / ISR / CSR / SSG balance, modular SDKs, reactive state machines.  
+- ⚙️ **Web3 Integration:** smart contracts, wallet connectors (Wagmi, Viem, Ethers.js), passkey/PKCE auth.  
+- 🛰 **Systems & Security:** CI/CD, DevOps, pentesting, OWASP Top 10, Ethereum audit practices.  
 
 ---
 
-### 🧠 Principles
-- Clean architecture · SOLID · Composition > Inheritance  
-- Declarative code and strict typing (TypeScript strict / Rust ownership)  
-- Measurable performance and reproducible builds  
-- Code must **explain itself**
+### 🧠 Engineering Focus
 
-> “Good code is poetry written in logic.”  
-> — Igor Shavlovsky
+I work at the intersection of **architecture, performance, and developer experience**, focusing on:
 
----
-
-### 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=iShavlovsky&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShavlovsky&layout=compact&theme=transparent&hide_border=true)
+- **Design Systems & UI Platforms** — scalable, theme-aware, component-driven architectures.  
+- **SDKs & Internal APIs** — typed interfaces, event-driven bridges, and modular messaging layers.  
+- **Performance Engineering** — profiling, caching, and eliminating redundant rendering paths.  
+- **Security & Cryptography** — secure authentication, signature validation, and data integrity.  
+- **Automation & Tooling** — pipelines, static analysis, and quality gates for large codebases.  
 
 ---
 
-### 💬 Contact
-📧 [imshavlovsky@gmail.com](mailto:imshavlovsky@gmail.com)  
-💬 [Telegram: @iShavl](https://t.me/iShavl)
+### 🧰 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,nodejs,rust,python,docker,linux,git,ethereum" />
+</p>
 
 ---
 
-🪶 _Exploring the intersection of clean code, architecture, and human creativity._
+### 🧠 Philosophy
+
+> “The code must explain itself.”
+
+- Composition > Inheritance  
+- Type safety as a mindset (TS strict / Rust ownership)  
+- Clean architecture, SOLID, CQRS  
+- Performance is a feature  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iShavlovsky&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShavlovsky&layout=compact&theme=transparent&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🌌 Live Pulse
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iShavlovsky&theme=transparent"/>
+</p>
+
+---
+
+### 📬 Connect
+
+<p align="center">
+  <a href="https://t.me/iShavl"><img src="https://img.shields.io/badge/Telegram-%40iShavl-blue?logo=telegram&logoColor=white" /></a>
+  <a href="mailto:imshavlovsky@gmail.com"><img src="https://img.shields.io/badge/Gmail-imshavlovsky%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <em>Exploring the edge between technology, art, and structure.</em><br/>
+  <strong>iShavlovsky</strong> ⚙️ 2025
+</p>
