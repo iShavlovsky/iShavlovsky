@@ -17,7 +17,7 @@
 > Crafting the intersection between frontend architecture, Web3, and human experience.
 
 - 🧩 **Frontend Architecture:** SSR / ISR / CSR / SSG balance, modular SDKs, reactive state machines.  
-- ⚙️ **Web3 Integration:** smart contracts, wallet connectors (Wagmi, Viem, Ethers.js), passkey/PKCE auth.  
+- ⚙️ **Web3 Integration:** smart contracts, wallet connectors (Wagmi, Viem, Ethers.js).  
 - 🛰 **Systems & Security:** CI/CD, DevOps, pentesting, OWASP Top 10, Ethereum audit practices.  
 
 ---
@@ -52,6 +52,7 @@ I work at the intersection of **architecture, performance, and developer experie
 - Performance is a feature  
 
 ---
+<img src="https://raw.githubusercontent.com/iShavlovsky/iShavlovsky/main/assets/divider.svg" width="100%"/>
 
 ### 📈 GitHub Stats
 
