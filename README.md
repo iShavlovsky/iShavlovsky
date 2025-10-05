@@ -31,14 +31,6 @@ Building scalable, secure, and high-performance web applications — from Web3 D
 
 ---
 
-### 🚀 Highlighted Projects
-- **🦊 Backpack SDK** — modular Web3 SDK with typed events, routing, and provider abstraction  
-- **🔐 Wallet Extension** — MV3 architecture with Port messaging (background/content/popup), passkey+PKCE auth  
-- **📜 Poetry Site** — Nuxt 4 + TresJS + Tailwind · smooth 3D motion & clean aesthetic  
-- **⚡ Internal Tools** — CI/CD automation, build systems, and performance analyzers  
-
----
-
 ### 🧠 Principles
 - Clean architecture · SOLID · Composition > Inheritance  
 - Declarative code and strict typing (TypeScript strict / Rust ownership)  
